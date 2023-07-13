@@ -31,4 +31,8 @@ Then open in browser: [http://localhost:8080/manager/html](http://localhost:8080
 Credentials:
 > user: `tomcat`
 
-> password: `s3cret` 
+> password: `s3cret`
+
+
+## Test section
+
